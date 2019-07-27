@@ -26,6 +26,7 @@ public class NameTest {
         assertEquals(1, result);
     }
 
+
     @Test
     void moduloFromMichalMotykaIsOne() {
         word = "Michal Motyka";
